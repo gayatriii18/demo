@@ -142,6 +142,7 @@ footer{
     align-items: center;
     text-align: center;
     padding: 40px 20px;
+    justify-content: center;
 }
 
 /* Keep footer at the bottom */
