@@ -110,6 +110,7 @@ footer{
 .memory-grid .card {
     margin-top: 0;
     transition: transform 0.2s;
+    justify-alignment: center;
 }
 
 .memory-grid .card:hover {
